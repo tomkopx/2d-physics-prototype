@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2d physics prototype.Plugins", "2d physics prototype.Plugins.csproj", "{9D06FEDB-75B8-E373-CBAE-8E5C8D3DF10B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2d physics prototype", "2d physics prototype.csproj", "{59FCE660-0948-634C-F884-C47D72DCDBB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2d physics prototype.Editor.Plugins", "2d physics prototype.Editor.Plugins.csproj", "{8F4AE83F-F887-E81F-2D5E-3E4D554D5825}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D06FEDB-75B8-E373-CBAE-8E5C8D3DF10B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D06FEDB-75B8-E373-CBAE-8E5C8D3DF10B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D06FEDB-75B8-E373-CBAE-8E5C8D3DF10B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D06FEDB-75B8-E373-CBAE-8E5C8D3DF10B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59FCE660-0948-634C-F884-C47D72DCDBB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59FCE660-0948-634C-F884-C47D72DCDBB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59FCE660-0948-634C-F884-C47D72DCDBB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59FCE660-0948-634C-F884-C47D72DCDBB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F4AE83F-F887-E81F-2D5E-3E4D554D5825}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F4AE83F-F887-E81F-2D5E-3E4D554D5825}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F4AE83F-F887-E81F-2D5E-3E4D554D5825}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F4AE83F-F887-E81F-2D5E-3E4D554D5825}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
