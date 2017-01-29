@@ -1,10 +1,12 @@
 fileFormatVersion: 2
 guid: 8db8856a58d95974f8a749a57e3b0754
-timeCreated: 1485610864
+timeCreated: 1485687031
 licenseType: Free
 MonoImporter:
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - pixel: {fileID: 1870717139612608, guid: 708720acf0536a54a9635c30ddaa86dc, type: 2}
+  - water: {fileID: 1686022881972566, guid: d82eb898d2777494388c4e8a5f5bf36b, type: 2}
   executionOrder: 100
   icon: {instanceID: 0}
   userData: 
